@@ -1,2 +1,2 @@
 # Misc.-Computational-Science-
-Several programs that compute, synthesize data, model, etc that have yet to be organized with proper labels and descriptions. 
+Several programs that analyze data, compute, model, etc. but have yet to be organized properly with labels and descriptions in Github. 
